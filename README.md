@@ -5,7 +5,7 @@
 
 <code><img alt = "HTML5" height="15" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">HTML5</code>
 <code><img alt = "CSS3" height="15" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">CSS3</code>
-<code><img alt = "JAVASCRIPT" height="15" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png">JAVASCRIPT ES6+</code>
+<code><img alt = "JAVASCRIPT" height="15" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png">JAVASCRIPT</code>
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin-5&exclude_repo=yujin-5.github.io&layout=compact&theme=tokyonight" />
